@@ -1,2 +1,2 @@
-let zalupa = 2;
+let zalupa = 'I love you';
 console.log(zalupa);
