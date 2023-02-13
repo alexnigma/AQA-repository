@@ -1,5 +1,6 @@
 // Задачи взяты отсюда https://learn.javascript.ru/variables
 
+
 /* 
 01 - Работа с переменными:
 Объявите две переменные: admin и name.
